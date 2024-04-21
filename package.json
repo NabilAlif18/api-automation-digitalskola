@@ -1,0 +1,17 @@
+{
+  "name": "api-automation-digitalskola",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.4.0",
+    "supertest": "^6.3.4"
+  }
+}
